@@ -14,12 +14,12 @@ The dataset consists of 100000 observations, each composed of 17 features. Each 
 
 ## Files Explained
 
-### star_classification.csv                    : The dataset file.
-### Feature-Selection-Data-Visualization.ipynb : The implementation of data visualization steps.
-### Preprocessing.ipynb                        : The preprocessing steps (feature selection, outlier removal etc.).
-### NeuralNetwork.ipynb                        : The implementation of the Neural Network that allows any layer configuration (Similar to Tensorflow 2.0 Sequential Model style).
-### LogisticRegression.ipynb                   : The implementation of the Multinomial Logistic Regression.
-### Decision Tree.ipynb                        : The implementation of the Decision Tree Classifier.
+* star_classification.csv                    : The dataset file.
+* Feature-Selection-Data-Visualization.ipynb : The implementation of data visualization steps.
+* Preprocessing.ipynb                        : The preprocessing steps (feature selection, outlier removal etc.).
+* NeuralNetwork.ipynb                        : The implementation of the Neural Network that allows any layer configuration (Similar to Tensorflow 2.0 Sequential Model style).
+* LogisticRegression.ipynb                   : The implementation of the Multinomial Logistic Regression.
+* Decision Tree.ipynb                        : The implementation of the Decision Tree Classifier.
 
 ## Libraries Used
 * numpy 1.22.0     
